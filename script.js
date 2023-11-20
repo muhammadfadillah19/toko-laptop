@@ -19,35 +19,35 @@ const laptop = [
         nomor : '1',
         nama: 'Unyil 15 - A11S',
         description: 'Laptop Terbaik abad 21',
-        price: 'Rp. 10.000.000',
+        price: 'Rp. 16.000.000',
         img: './images/omen.png'
     },
     {
         nomor : '2',
         nama: 'Unyil S5 - A11B',
         description: 'Laptop Terbaik abad 22',
-        price: 'Rp. 10.999.000',
+        price: 'Rp. 12.999.000',
         img: './images/laptop-2.png'
     },
     {
         nomor : '3',
         nama: 'Unyil 17 - A134S',
         description: 'Laptop Terbaik abad 23',
-        price: 'Rp. 10.900.500',
+        price: 'Rp. 11.900.500',
         img: './images/laptop3.png'
     },
     {
         nomor : '4',
         nama: 'Unyil 12 - A22S',
         description: 'Laptop Terbaik abad 24',
-        price: 'Rp. 8.000.000',
+        price: 'Rp. 20.000.000',
         img: './images/laptop.png'
     },
     {
         nomor : '5',
         nama: 'Unyil 202 - K913',
         description: 'Laptop Terbaik abad 25',
-        price: 'Rp. 9.000.000',
+        price: 'Rp. 31.000.000',
         img: './images/laptop-20.png'
     },
 ]
