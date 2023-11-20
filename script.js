@@ -56,7 +56,7 @@ let nomor = 0
 let maksimallaptop = laptop.length
 let selected = {
     nomor: '1',
-    nama: 'Unyil 15 - A11S',
+    nama: 'JRG99 15 - A11S',
     description: 'Laptop Terbaik abad 21',
     price: 'Rp. 10.000.000',
     img: './images/omen.png',
